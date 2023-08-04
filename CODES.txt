@@ -1,0 +1,55 @@
+TSF alert
+Calls drivers: Claims// we are being impacted due high call volume on the previous interval we had forecasted 86 calls and we received 126, we ended up at 71.8% of TSF
+we lost 3 calls and our ASA ended up at 21.9 seconds, on this last inteval ended up at 58.9% of TSF, our AHT from this interval ended up at 669 seconds, our ASA 46.6 seconds
+and we lost 5 calls
+
+Mensaje llamadas en queue
+Team we continue having calls in queue we are AHOD, please make sure all agents are taking calls, all off-phone activities will be denied
+
+avaya one x
+1055194
+
+Here is a list of the most common codes for eWFM and for RTA:
+
+eWFM:
+	UPTO: Unplanned time off/Call outs/Agent Whereabouts Unknown; begins at 31 minutes after the start of their shift. (NCNS)
+	PPTO: Approved Time Off
+	SYSD: Any system issue within Continuum equipment
+	WAHSD: Power/Internet Outages
+	INT: Short term FMLA/ADAAA time off. Can be used for Dr. Appointments, additional breaks, days off (Less than 1 week)
+	EXT: LOA/Long Term FMLA/ADAAA time off (more than 1 week)
+	UUTO: Entered for Pending Terms
+	TBT: Technical Based Training; only used for completing TBT’s
+	TRNG: Any training that involves learning new skills/uptraining
+	MILT: Time off for Military Duties
+	BERE: Bereavement
+	JURY: Only used for jury duty. Mandatory court appearances fall under PPTO.
+	EMER: Natural Disaster Emergencies (Hurricane/Tornado etc.)
+	PVTO: VTO (Voluntary time off); Mandatory VTO also falls under this code.
+	MEET: Meeting with Supervisors or Quality Coaches
+	OT: Overtime
+	MU: MakeUp Time
+	INTNCOT: Submitted by the Intradiem system when it pulls an agent for a TBT type training
+	INTTBT: Submitted by the Intradiem system when it pulls an agent for a TBT type training
+	HOLI: Holiday
+	CB: Company Business; used for things like meeting a supervisor on site, time off the phone to fill out paperwork for company records, etc.
+	LATE: Used when an agent is 30 minutes or less, late for their shift.
+	PCW: Post Call Work; used when an agent logs out to finish up their notes or do follow up research for a member. These segments will not be approved during AHOD (All Hands On Deck)
+
+RTA Acronyms:
+	SOU: Signed Out Unexpectedly
+	SIU: Signed In Unexpectedly 
+	ESL: End Shift Late
+	WOB: Working On Break
+	WOX: Working On Exception (On the phone when they are scheduled for a MEET/TBT etc.)
+	ESE: End Shift Early (Time showing is how long is left in their shift, double click name to see Unstaffed Time)
+	EXL: Ending Exception Late (Seen when they are late returning from MEET/TBT/Start of Shift etc.)
+	EBL: Entering OR Ending break late; you will need to double click the name to confirm which.
+	ACW: After Call Work (Agents should never be in ACW, they need to log out for any offline activities)
+	AUXWK: Auxiliary Work (Agents should never be in AUXWK, they need to log out for any offline activities)
+	ACWOUT: Agent is making an outbound call in ACW; ask Supervisors to coach agent to log out.
+	AUXOUT: Agent is making an outbound call, may have a member on the back line which turns it into a hold time.
+	Hold: How long the agent has had the member on hold
+
+
+FMLA/ADAAA: Time off covered by UNUM for medical issues for agent or immediate family such as child(ren).
